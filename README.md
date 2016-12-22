@@ -1,6 +1,6 @@
 # Mobile-Bulletin-Board
 
-+ Credits:
+Credits:
 + Meredith Mattlin: Director 
 + Zachary Barton (https://github.com/bartonzm): Backend 
 + Brennan Belew (https://github.com/belewbc): Frontend
