@@ -1,0 +1,28 @@
+{
+  "name": "MBB",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "firebase": "^3.6.1",
+=======
+    "firebase": "^3.6.2",
+>>>>>>> 4d4b3e5ad0d6145251b03667296f1353e877ae68
+    "react": "15.3.2",
+    "react-native": "0.37.0"
+  },
+  "jest": {
+    "preset": "jest-react-native"
+  },
+  "devDependencies": {
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "17.0.2",
+    "jest-react-native": "17.0.2",
+    "react-test-renderer": "15.3.2"
+  }
+}

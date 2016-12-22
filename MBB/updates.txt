@@ -1,0 +1,5 @@
+Attempting to fix errors with Git and React Native. Unable to install app in emulator after 
+resolving (hopefully) the errors encountered when trying to run the master project when 
+pulled from our remote repository. All of today was spent troubleshooting those errors, so 
+not much progress was made in terms of meeting our goals. Hopefully we'll have resolved any
+issues by next class. 
