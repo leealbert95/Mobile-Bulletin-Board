@@ -1,10 +1,10 @@
 # Mobile-Bulletin-Board
 
-Credits:
-Meredith Mattlin: Director 
-Zachary Barton: Backend 
-Brennec Belew: Frontend
-Albert Lee: Frontend
++ Credits:
++ Meredith Mattlin: Director 
++ Zachary Barton (https://github.com/bartonzm): Backend 
++ Brennan Belew (https://github.com/belewbc): Frontend
++ Albert Lee: Frontend
 
 A rudimentary application developed with two other computer science students and an arts & science student (the director) using React Native framework and Firebase as backend. The goal of this application is to be able to connect with other users across campus and be able to pitch ideas for new projects and meet up with similarly-minded individuals. Some features were lacking at this point due to time constraints, but basic functionality has been implemented. 
 
